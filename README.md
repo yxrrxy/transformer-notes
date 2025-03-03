@@ -14,7 +14,3 @@
   - Multi-Head Attention（多头注意力机制）
   - Feed Forward Network（前馈神经网络）
   - Layer Normalization（层归一化）
-
-  ![1736614365785](image/README/1736614365785.png)
-  
-  ![1736614379797](image/README/1736614379797.png)
